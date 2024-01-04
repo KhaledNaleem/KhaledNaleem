@@ -3,7 +3,7 @@ Hi!🙋‍♂️ I am Khaled! <>
 </h3>
 
 <h2 align="center">
-I am a Cyber Security Student :computer:, a UI/UX Designer :art: and a Flutter Developer <>
+I am a Cyber Security Undergraduate :computer:
 </h2>
 
 I love Bug Bounty Hunting, Security Analysis, Designing minimal UI's and implementing them in Flutter.
