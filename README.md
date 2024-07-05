@@ -10,7 +10,7 @@ I love Bug Bounty Hunting, Security Analysis, Designing minimal UI's and impleme
 
 ### Connect with me:
 <a href = "https://www.linkedin.com/in/khaled-naleem-19b758166/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href = "https://www.instagram.com/khaled_naleem/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href = "https://www.instagram.com/haidar__kn/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 ## I'm currently learning:
 Cyber Security Engineering
