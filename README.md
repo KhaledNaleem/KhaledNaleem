@@ -3,10 +3,10 @@ Hi!🙋‍♂️ I am Khaled! <>
 </h3>
 
 <h2 align="center">
-I am a Cyber Security Undergraduate :computer:
+Network Security Engineer :computer:
 </h2>
 
-I love Bug Bounty Hunting, Security Analysis, Designing minimal UI's and implementing them in Flutter.
+My interests include Bug Bounty Hunting, Security Analysis, Designing minimal UI's and implementing them in Flutter.
 
 ### Connect with me:
 <a href = "https://www.linkedin.com/in/khaled-naleem-19b758166/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
